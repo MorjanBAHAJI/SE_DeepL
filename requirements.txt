@@ -1,0 +1,10 @@
+matplotlib
+numpy
+keras
+pandas
+IPython
+opencv-python
+librosa
+tensorflow==2.0
+scipy
+tqdm
